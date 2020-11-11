@@ -1,15 +1,8 @@
 persiapan ambil laptop ke jakarta
-	b. beli travel, daytrans
 	c. atur jadwal,
 		tgl 12 berangkat pagi, linkaja, harry basuki, malem balik 
 	b. wilian, access database MFS, query table
 	c. dandi, report
-	d. puteri, bigquery
-		what data is in that bigquery
-			kumpulan data-data di link aja yang udah di masking sesuai kebutuhan,
-			sumber data: MFS, postgre, mysql
-		hubungan sama huawei
-			sitem API dibuat sama huawei, sekarang mau bikin sendiri
 	e. nurna, bigquery & MFS
 		a. baca confluence data engineering
 		c. sudah sampe mana tahapnya?
@@ -20,15 +13,7 @@ urus KTP
 	a. tanya kantor kecamatan, bu eva
 explore ETL tools
 	a. talend
-pull bulcomp
-	a. running local, dzaka (bulcomp)
-	b. code walkthrough
-	c. coding style
-	d. env
-	e. gitflow
-	f. running bulcomp
-		install oracle client 
 cicil data migrasi
 belajar go programming
 	a. diane@sepulsa.com
-what is soap
+understand soap
