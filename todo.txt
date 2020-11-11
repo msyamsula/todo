@@ -1,6 +1,4 @@
-persiapan ambil laptop ke jakarta
-	c. atur jadwal,
-		tgl 12 berangkat pagi, linkaja, harry basuki, malem balik 
+ngobrol 
 	b. wilian, access database MFS, query table
 	c. dandi, report
 	e. nurna, bigquery & MFS
