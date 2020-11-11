@@ -1,5 +1,5 @@
 persiapan ambil laptop ke jakarta
-	b. beli travel, cititrans
+	b. beli travel, daytrans
 	c. atur jadwal,
 		tgl 12 berangkat pagi, linkaja, harry basuki, malem balik 
 	b. wilian, access database MFS, query table
@@ -20,12 +20,15 @@ urus KTP
 	a. tanya kantor kecamatan, bu eva
 explore ETL tools
 	a. talend
-	b. hendra, sales talend approaching
 pull bulcomp
 	a. running local, dzaka (bulcomp)
 	b. code walkthrough
 	c. coding style
 	d. env
 	e. gitflow
+	f. running bulcomp
+		install oracle client 
 cicil data migrasi
-meeting bigquery
+belajar go programming
+	a. diane@sepulsa.com
+what is soap
