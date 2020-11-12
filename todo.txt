@@ -2,10 +2,10 @@ ngobrol
 	b. wilian, access database MFS, query table
 	c. dandi, report
 	e. nurna, bigquery & MFS
-		a. baca confluence data engineering
 		c. sudah sampe mana tahapnya?
 		d. bahas data apa aja yang mau di migrasi, sekarang yang dirumuskan di coreng ada di confluence, sudah ada spesifik table?
-		e. db MFS, punya akses gak?
+		e. ETL tools
+		f. MFS, apa oprtdb, dmtora, dll
 cuci baju
 urus KTP
 	a. tanya kantor kecamatan, bu eva
