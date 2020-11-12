@@ -11,6 +11,7 @@ urus KTP
 	a. tanya kantor kecamatan, bu eva
 explore ETL tools
 	a. talend
+	b. airflow
 cicil data migrasi
 belajar go programming
 	a. diane@sepulsa.com
