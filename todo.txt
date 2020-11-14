@@ -8,6 +8,8 @@ explore ETL tools
 	a. talend
 	b. airflow
 		airflow in 5 minutes, bookmark
+		practical airflow, bookmark
+		problem when install airflow with pip
 cicil data migrasi
 belajar go programming
 	a. diane@sepulsa.com
