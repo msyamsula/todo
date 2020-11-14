@@ -9,7 +9,6 @@ explore ETL tools
 	b. airflow
 		airflow in 5 minutes, bookmark
 		practical airflow, bookmark
-		problem when airflow initdb
 cicil data migrasi
 belajar go programming
 	a. diane@sepulsa.com
