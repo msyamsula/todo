@@ -1,7 +1,5 @@
 day preparation
 	a. cuci baju
-	b. makan
-	c. beresin kamar
 ngobrol 
 	c. dandi, report airflow
 urus KTP
