@@ -9,6 +9,7 @@ urus KTP
 explore ETL tools
 	a. talend
 	b. airflow
+		airflow in 5 minutes, bookmark
 cicil data migrasi
 belajar go programming
 	a. diane@sepulsa.com
