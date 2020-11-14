@@ -1,3 +1,6 @@
+prep
+	beres-beres
+	makan
 ngobrol 
 	c. dandi, report airflow
 urus KTP
