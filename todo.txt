@@ -1,10 +1,11 @@
 ngobrol 
 	c. dandi, report airflow
+	d. orang data atau coreng
 urus KTP
 	a. tanya kantor kecamatan, bu eva
-explore ETL tools
+explore ETL tools, see scenario in "~/airflow" directory
 	a. talend
-	b. airflow
+	b. airflow, see problems in "scenario.txt"
 	c. kafka
 cicil data migrasi
 belajar go programming
