@@ -1,6 +1,3 @@
-prep
-	beres-beres
-	makan
 ngobrol 
 	c. dandi, report airflow
 urus KTP
@@ -8,8 +5,7 @@ urus KTP
 explore ETL tools
 	a. talend
 	b. airflow
-		airflow in 5 minutes, bookmark
-		practical airflow, bookmark
+	c. kafka
 cicil data migrasi
 belajar go programming
 	a. diane@sepulsa.com
