@@ -3,9 +3,9 @@ ngobrol
 	d. orang data atau coreng
 urus KTP
 	a. tanya kantor kecamatan, bu eva
-explore ETL tools, see scenario in "~/airflow" directory
+explore ETL tools,
 	a. talend
-	b. airflow, see problems in "scenario.txt"
+	b. airflow, see ~/airflow directory
 	c. kafka
 cicil data migrasi
 belajar go programming
