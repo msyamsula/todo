@@ -11,4 +11,24 @@ cicil data migrasi
 belajar go programming
 	a. diane@sepulsa.com
 restart CP
+	a. data structure
+	b. paradigm
+	c. graph
+	d. math
 restart side project
+
+squad linkaja
+	- bumi, user story
+	- titan, partner dan merchant
+	- tayo, payment
+	- abimanyu, payment QRIS
+	- thomas, loyalti, poin, promo
+	- coreng, migrasi MFS ke artha
+
+data migrasi
+	- ETL tools
+	- comparing job between cores
+		- transaksi
+		- saldo
+		- history
+		- 
