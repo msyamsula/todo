@@ -1,12 +1,12 @@
-ngobrol 
-	c. dandi, report airflow
-	d. orang data atau coreng
 urus KTP
 	a. tanya kantor kecamatan, bu eva
-explore ETL tools,
-	a. talend
-	b. airflow, see ~/airflow directory
-	c. kafka
+data migrasi
+	a. airflow, ~/airflow
+	b. comparing job between cores
+		- transaksi
+		- saldo
+		- history
+	c. recovery strategy when comparing job failed/unmatched
 cicil data migrasi
 belajar go programming
 	a. diane@sepulsa.com
@@ -17,6 +17,12 @@ restart CP
 	d. math
 restart side project
 
+
+
+
+
+miscellaneous:
+
 squad linkaja
 	- bumi, user story
 	- titan, partner dan merchant
@@ -24,11 +30,3 @@ squad linkaja
 	- abimanyu, payment QRIS
 	- thomas, loyalti, poin, promo
 	- coreng, migrasi MFS ke artha
-
-data migrasi
-	- ETL tools
-	- comparing job between cores
-		- transaksi
-		- saldo
-		- history
-		- 
