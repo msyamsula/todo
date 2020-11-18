@@ -7,7 +7,7 @@ data migrasi
 		- saldo
 		- history
 	c. recovery strategy when comparing job failed/unmatched
-cicil data migrasi
+	d. cicil data migrasi
 belajar go programming
 	a. diane@sepulsa.com
 restart CP
