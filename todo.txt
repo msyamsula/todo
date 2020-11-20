@@ -1,3 +1,5 @@
+General To-do
+=======================
 urus KTP
 	a. tanya kantor kecamatan, bu eva
 data migrasi
@@ -16,17 +18,19 @@ restart CP
 	c. graph
 	d. math
 restart side project
+Account profiling
+	a. instagram
+	b. facebook
+	c. whatsapp
+	d. teams
+	e. linkedin
+	f. github
 
-
-
-
-
-miscellaneous:
-
-squad linkaja
-	- bumi, user story
-	- titan, partner dan merchant
-	- tayo, payment
-	- abimanyu, payment QRIS
-	- thomas, loyalti, poin, promo
-	- coreng, migrasi MFS ke artha
+Today to-do
+======================
+1. airflow docker
+2. uva
+	5 soal, paradigm
+3. codeforce
+	5 soal, 1000
+4. profiling
