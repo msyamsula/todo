@@ -3,7 +3,7 @@ General To-do
 urus KTP
 	a. tanya kantor kecamatan, bu eva
 data migrasi
-	a. airflow, ~/airflow
+	a. airflow
 	b. comparing job between cores
 		- transaksi
 		- saldo
@@ -25,12 +25,16 @@ Account profiling
 	d. teams
 	e. linkedin
 	f. github
+learn tech stack
+	a. rabbitmq
+	b. kubernetes
+	c. go programming language
+	d. sonarqube
 
 Today to-do
 ======================
-1. airflow docker
+1. airflow-celery
 2. uva
 	5 soal, paradigm
 3. codeforce
 	5 soal, 1000
-4. profiling
