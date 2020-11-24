@@ -1,1 +1,40 @@
-TO DO LIST
+General To-do
+=======================
+urus KTP
+	a. tanya kantor kecamatan, bu eva
+data migrasi
+	a. airflow
+	b. comparing job between cores
+		- transaksi
+		- saldo
+		- history
+	c. recovery strategy when comparing job failed/unmatched
+	d. cicil data migrasi
+belajar go programming
+	a. diane@sepulsa.com
+restart CP
+	a. data structure
+	b. paradigm
+	c. graph
+	d. math
+restart side project
+Account profiling
+	a. instagram
+	b. facebook
+	c. whatsapp
+	d. teams
+	e. linkedin
+	f. github
+learn tech stack
+	a. rabbitmq
+	b. kubernetes
+	c. go programming language
+	d. sonarqube
+
+Today to-do
+======================
+1. airflow celery
+2. uva
+	5 soal, paradigm
+3. codeforce
+	5 soal, 1000
