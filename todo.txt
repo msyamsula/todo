@@ -33,7 +33,7 @@ learn tech stack
 
 Today to-do
 ======================
-1. airflow-celery
+1. airflow celery
 2. uva
 	5 soal, paradigm
 3. codeforce
