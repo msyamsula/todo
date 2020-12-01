@@ -30,6 +30,7 @@ learn tech stack
 	b. kubernetes
 	c. go programming language
 	d. sonarqube
+	e. redis
 
 Today to-do
 ======================
@@ -37,3 +38,8 @@ Today to-do
 	5 soal, paradigm
 3. codeforce
 	5 soal, 1000
+
+Carry-Over
+=================
+docker registry -- devops
+CI/CD -- devops
