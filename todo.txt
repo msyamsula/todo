@@ -31,6 +31,8 @@ learn tech stack
 	c. go programming language
 	d. sonarqube
 	e. redis
+	f. grpc
+	g. graphql
 
 Today to-do
 ======================
